@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+    <info organisation="co.mmurp" module="drones"/>
+    <dependencies>
+        <dependency org="de.mukis" name="de.mukis.jama" rev="2.0.0.M1"/>
+    </dependencies>
+</ivy-module>
